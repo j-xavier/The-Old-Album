@@ -1,0 +1,17 @@
+#companyName {
+    font-family: "Mrs Saint Delafield", cursive, sans-serif;
+    font-size: 5em;
+    top: 0;
+    margin: auto;
+    padding: 0;
+    text-align: center;
+}
+
+#navbar {
+    text-decoration: none;
+    display: flex;
+    margin: 20px 50px;
+    padding: 0;
+    justify-content: space-between;
+}
+
